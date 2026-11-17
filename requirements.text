@@ -1,4 +1,0 @@
-gunicorn
-joblib
-flask
-scikit-learning 
